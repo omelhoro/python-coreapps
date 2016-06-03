@@ -1,0 +1,106 @@
+Session QqhrCEc started at Wed May 28 14:26:10 2014
+Session BnK^Z@P started at Wed May 28 14:26:18 2014
+Session ^^IDUaJ started at Wed May 28 14:26:45 2014
+Session TnuSQTo started at Wed May 28 14:26:46 2014
+Session \MJv_cI started at Wed May 28 14:27:13 2014
+Session Uv[WOUl started at Wed May 28 14:27:41 2014
+Session MhNxJp? started at Wed May 28 14:27:43 2014
+Session tl]S<vN started at Wed May 28 14:27:48 2014
+login was called at Wed May 28 14:27:49 2014 with args:Igor,Igor
+login was called at Wed May 28 14:28:12 2014 with args:Igor,Igor
+login was called at Wed May 28 14:28:14 2014 with args:Igor,Igor
+login was called at Wed May 28 14:28:18 2014 with args:Igor,Igor
+Session jdMlGUc started at Wed May 28 14:29:11 2014
+Session wB_DvtD started at Wed May 28 14:29:33 2014
+Session GqoscnG started at Wed May 28 14:29:40 2014
+Session GSCRIe^ started at Wed May 28 14:30:29 2014
+Session WuWqY@g started at Wed May 28 14:30:39 2014
+login was called at Wed May 28 14:30:39 2014 with args:Igor,Igor
+Session ZqiQnS` started at Wed May 28 14:33:16 2014
+Session eTBHo^a started at Wed May 28 14:33:57 2014
+login was called at Wed May 28 14:33:57 2014 with args:Igor,Igor
+Session Wl?Q[[A started at Wed May 28 14:39:17 2014
+login was called at Wed May 28 14:39:17 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:39:18 2014 with args:Igor
+modify was called at Wed May 28 14:39:20 2014 with args:9,False,Igor,AAPL
+modify was called at Wed May 28 14:39:20 2014 with args:13,False,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:39:20 2014 with args:Igor
+modify was called at Wed May 28 14:39:24 2014 with args:9,True,Igor,AAPL
+modify was called at Wed May 28 14:39:24 2014 with args:13,True,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:39:24 2014 with args:Igor
+update_price was called at Wed May 28 14:39:29 2014 with args:foo
+get_tab_for_user was called at Wed May 28 14:39:29 2014 with args:Igor
+update_price was called at Wed May 28 14:39:31 2014 with args:foo
+get_tab_for_user was called at Wed May 28 14:39:31 2014 with args:Igor
+update_price was called at Wed May 28 14:39:32 2014 with args:foo
+get_tab_for_user was called at Wed May 28 14:39:32 2014 with args:Igor
+modify was called at Wed May 28 14:39:34 2014 with args:9,True,Igor,AAPL
+modify was called at Wed May 28 14:39:34 2014 with args:13,True,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:39:34 2014 with args:Igor
+modify was called at Wed May 28 14:39:38 2014 with args:9,False,Igor,FB
+modify was called at Wed May 28 14:39:38 2014 with args:9,False,Igor,FB
+modify was called at Wed May 28 14:39:38 2014 with args:13,False,Igor,GOOG
+modify was called at Wed May 28 14:39:38 2014 with args:15,False,Igor,TWTR
+modify was called at Wed May 28 14:39:38 2014 with args:9,False,Igor,FB
+get_tab_for_user was called at Wed May 28 14:39:38 2014 with args:Igor
+Session A=NsmDU started at Wed May 28 14:43:16 2014
+Session `GfJF]P started at Wed May 28 14:43:23 2014
+login was called at Wed May 28 14:43:24 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:43:24 2014 with args:Igor
+modify was called at Wed May 28 14:43:26 2014 with args:2,True,Igor,AAPL
+modify was called at Wed May 28 14:43:26 2014 with args:17,True,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:43:26 2014 with args:Igor
+modify was called at Wed May 28 14:43:28 2014 with args:18,True,Igor,GOOG
+modify was called at Wed May 28 14:43:28 2014 with args:18,True,Igor,GOOG
+modify was called at Wed May 28 14:43:29 2014 with args:13,True,Igor,FB
+modify was called at Wed May 28 14:43:29 2014 with args:12,True,Igor,TWTR
+get_tab_for_user was called at Wed May 28 14:43:29 2014 with args:Igor
+modify was called at Wed May 28 14:43:32 2014 with args:19,True,Igor,GOOG
+modify was called at Wed May 28 14:43:32 2014 with args:14,True,Igor,FB
+modify was called at Wed May 28 14:43:32 2014 with args:13,True,Igor,TWTR
+modify was called at Wed May 28 14:43:32 2014 with args:19,True,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:43:32 2014 with args:Igor
+modify was called at Wed May 28 14:43:35 2014 with args:3,True,Igor,AAPL
+modify was called at Wed May 28 14:43:35 2014 with args:15,True,Igor,FB
+modify was called at Wed May 28 14:43:35 2014 with args:14,True,Igor,TWTR
+get_tab_for_user was called at Wed May 28 14:43:35 2014 with args:Igor
+modify was called at Wed May 28 14:43:38 2014 with args:4,False,Igor,AAPL
+modify was called at Wed May 28 14:43:38 2014 with args:20,False,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:43:38 2014 with args:Igor
+modify was called at Wed May 28 14:43:41 2014 with args:3,False,Igor,AAPL
+modify was called at Wed May 28 14:43:41 2014 with args:19,False,Igor,GOOG
+modify was called at Wed May 28 14:43:41 2014 with args:19,False,Igor,GOOG
+modify was called at Wed May 28 14:43:41 2014 with args:19,False,Igor,GOOG
+get_tab_for_user was called at Wed May 28 14:43:41 2014 with args:Igor
+update_price was called at Wed May 28 14:43:44 2014 with args:foo
+get_tab_for_user was called at Wed May 28 14:43:44 2014 with args:Igor
+login was called at Wed May 28 14:47:59 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:47:59 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:48:05 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:48:08 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:48:10 2014 with args:Igor
+login was called at Wed May 28 14:48:27 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:48:27 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:48:30 2014 with args:Igor
+login was called at Wed May 28 14:49:21 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:49:21 2014 with args:Igor
+login was called at Wed May 28 14:49:37 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:49:37 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:49:39 2014 with args:Igor
+login was called at Wed May 28 14:50:03 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:50:03 2014 with args:Igor
+modify was called at Wed May 28 14:50:06 2014 with args:18,False,Igor,GOOG
+modify was called at Wed May 28 14:50:06 2014 with args:2,False,Igor,AAPL
+get_tab_for_user was called at Wed May 28 14:50:06 2014 with args:Igor
+modify was called at Wed May 28 14:50:08 2014 with args:17,False,Igor,GOOG
+modify was called at Wed May 28 14:50:08 2014 with args:1,False,Igor,AAPL
+get_tab_for_user was called at Wed May 28 14:50:08 2014 with args:Igor
+modify was called at Wed May 28 14:50:11 2014 with args:16,True,Igor,FB
+modify was called at Wed May 28 14:50:11 2014 with args:0,True,Igor,AAPL
+get_tab_for_user was called at Wed May 28 14:50:11 2014 with args:Igor
+modify was called at Wed May 28 14:50:14 2014 with args:1,True,Igor,AAPL
+get_tab_for_user was called at Wed May 28 14:50:14 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:50:19 2014 with args:Igor
+get_tab_for_user was called at Wed May 28 14:50:20 2014 with args:Igor
+login was called at Wed May 28 14:50:40 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 14:50:40 2014 with args:Igor

@@ -1,0 +1,17 @@
+Session mjQth>v started at Wed May 28 13:43:59 2014
+login was called at Wed May 28 13:44:00 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 13:44:00 2014 with args:Igor
+modify was called at Wed May 28 13:44:12 2014 with args:10,True,Igor,AAPL
+modify was called at Wed May 28 13:44:12 2014 with args:20,True,Igor,GOOG
+get_tab_for_user was called at Wed May 28 13:44:12 2014 with args:Igor
+modify was called at Wed May 28 13:44:15 2014 with args:21,False,Igor,GOOG
+modify was called at Wed May 28 13:44:15 2014 with args:14,False,Igor,FB
+get_tab_for_user was called at Wed May 28 13:44:15 2014 with args:Igor
+Session _wiDAdX started at Wed May 28 13:48:19 2014
+Session >AA<xub started at Wed May 28 13:48:20 2014
+login was called at Wed May 28 13:48:20 2014 with args:Igor,Igor
+get_tab_for_user was called at Wed May 28 13:48:20 2014 with args:Igor
+update_price was called at Wed May 28 13:48:23 2014 with args:foo
+get_tab_for_user was called at Wed May 28 13:48:23 2014 with args:Igor
+update_price was called at Wed May 28 13:48:25 2014 with args:foo
+get_tab_for_user was called at Wed May 28 13:48:25 2014 with args:Igor
